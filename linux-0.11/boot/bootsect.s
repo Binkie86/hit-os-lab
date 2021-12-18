@@ -257,4 +257,4 @@ endtext:
 .data
 enddata:
 .bss
-endbss:
+endbss: linux-0.11/boot/bootsect.s
